@@ -1,10 +1,12 @@
-5
+6
 |||
             # Win10Tester version 2.1 beta #
  
  Testing ground for Windows10 Kodi befor final updates get pushed
  new:
- -Easy Advanced Settings for cached buffering
+ -Easy Advanced Settings for cached buffering (settings for low end/1Gb ram devices)
  -Zen Addon
  -Info Wars Addon 
+ -Disc Artwork
+ -Openload low priority (will appear at low on url list)
   bugs/suggestions: ddwmsmn@gmail.com
