@@ -1,4 +1,4 @@
-7
+8
 |||
             # Win10Tester version 2.1 beta #
  
@@ -6,7 +6,7 @@
  new:
  -Easy Advanced Settings for cached buffering (settings for low end/1Gb ram devices)
  -Zen Addon
- -Info Wars Addon 
+ -Info Wars Addon (if you don't want to get red pilled, uninstall it)
  -Disc Artwork
- -Openload low priority (will appear at low on url list)
+ -Openload low priority (will appear low on url/link selection lists)
   bugs/suggestions: ddwmsmn@gmail.com
