@@ -1,6 +1,6 @@
-3
+4
 |||
-            # Win10Tester #
+            # Win10Tester version 2.1 beta#
  
  Testing ground for Windows10 Kodi befor final updates get pushed
  new:
