@@ -1,3 +1,9 @@
-
+ 
 |||
-# Win10Test
+            # Win10Tester #
+ 
+ Testing ground for Windows10 Kodi befor final updates get pushed
+ new:
+ -Easy Advanced Settings for cached buffering
+ -Zen Addon
+ -Info Wars Addon 
