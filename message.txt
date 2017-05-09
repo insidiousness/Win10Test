@@ -1,4 +1,4 @@
-2 
+3
 |||
             # Win10Tester #
  
@@ -7,3 +7,4 @@
  -Easy Advanced Settings for cached buffering
  -Zen Addon
  -Info Wars Addon 
+  bugs/suggestions: ddwmsmn@gmail.com
