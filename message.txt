@@ -1,8 +1,8 @@
-6
+7
 |||
             # Win10Tester version 2.1 beta #
  
- Testing ground for Windows10 Kodi befor final updates get pushed
+ Testing grounds for Windows10 Kodi before final updates get pushed
  new:
  -Easy Advanced Settings for cached buffering (settings for low end/1Gb ram devices)
  -Zen Addon
